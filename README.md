@@ -4,12 +4,11 @@
 # Charlie Kirk Twitter Sentiment Analysis
 
 ## Overview
-Analysis of Twitter discourse surrounding Charlie Kirk over a 36-hour period using NLP and sentiment analysis.
+Analysis of Twitter discourse surrounding Charlie Kirk over a 36-hour period after his death using NLP and sentiment analysis.
 
 ## Dataset Coverage
 - **Search Query**: Tweets containing `#CharlieKirk` OR `"Charlie Kirk"`
-- **Time Period**: Last 36 hours
-- **Privacy**: All usernames and IDs obfuscated with unique hashids
+- **Time Period**: 36 hours after his death.
 - **Well-Known Authors**: Blue-verified (10K+ followers) or non-verified (50K+ followers)
 
 ## Methodology
